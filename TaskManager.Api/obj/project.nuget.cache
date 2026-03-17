@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "dgSpecHash": "yL8agiuCq8o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Peti\\TaskManager\\TaskManager.Api\\TaskManager.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Peti\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
+    "C:\\Users\\Peti\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0-preview.1.25120.3\\microsoft.aspnetcore.openapi.10.0.0-preview.1.25120.3.nupkg.sha512",
+    "C:\\Users\\Peti\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Peti\\.nuget\\packages\\microsoft.openapi\\2.0.0-preview5\\microsoft.openapi.2.0.0-preview5.nupkg.sha512",
+    "C:\\Users\\Peti\\.nuget\\packages\\mongodb.bson\\3.1.0\\mongodb.bson.3.1.0.nupkg.sha512",
+    "C:\\Users\\Peti\\.nuget\\packages\\mongodb.driver\\3.1.0\\mongodb.driver.3.1.0.nupkg.sha512",
+    "C:\\Users\\Peti\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
+    "C:\\Users\\Peti\\.nuget\\packages\\snappier\\1.0.0\\snappier.1.0.0.nupkg.sha512",
+    "C:\\Users\\Peti\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\Peti\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\Peti\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\Peti\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
+    "C:\\Users\\Peti\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "TaskManager.Api depends on Microsoft.AspNetCore.OpenApi (>= 10.0.0-preview.1.25080.5) but Microsoft.AspNetCore.OpenApi 10.0.0-preview.1.25080.5 was not found. Microsoft.AspNetCore.OpenApi 10.0.0-preview.1.25120.3 was resolved instead.",
+      "projectPath": "C:\\Users\\Peti\\TaskManager\\TaskManager.Api\\TaskManager.Api.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Peti\\TaskManager\\TaskManager.Api\\TaskManager.Api.csproj",
+      "libraryId": "Microsoft.AspNetCore.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

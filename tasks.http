@@ -1,0 +1,26 @@
+### Create
+POST https://localhost:5001/api/tasks
+Content-Type: application/json
+
+{
+  "title": "Első task",
+  "description": "Tesztelés",
+  "isCompleted": false
+}
+
+### Get all
+GET https://localhost:5001/api/tasks
+
+### Update
+PUT https://localhost:5001/api/tasks/{ID}
+Content-Type: application/json
+
+{
+  "id": "{ID}",
+  "title": "Frissített task",
+  "description": "Update",
+  "isCompleted": true
+}
+
+### Delete
+DELETE https://localhost:5001/api/tasks/{ID}
